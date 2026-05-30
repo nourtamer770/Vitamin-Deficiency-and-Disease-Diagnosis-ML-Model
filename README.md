@@ -1,4 +1,4 @@
-# Vitamin-Deficiency-ML-Model
+# Vitamin-Deficiency and Disease Diagnosis-ML-Model
 Vitamin Deficiency & Disease Diagnosis Prediction System
 
 This project implements a complete end-to-end machine learning pipeline for predicting both vitamin deficiency levels (regression) and disease diagnosis categories (classification) using demographic, lifestyle, and nutritional information.
